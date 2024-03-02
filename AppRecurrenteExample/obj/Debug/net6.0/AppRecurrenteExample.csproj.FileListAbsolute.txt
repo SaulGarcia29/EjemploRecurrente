@@ -1,0 +1,14 @@
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\bin\Debug\net6.0\AppRecurrenteExample.exe
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\bin\Debug\net6.0\AppRecurrenteExample.deps.json
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\bin\Debug\net6.0\AppRecurrenteExample.runtimeconfig.json
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\bin\Debug\net6.0\AppRecurrenteExample.dll
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\bin\Debug\net6.0\AppRecurrenteExample.pdb
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\obj\Debug\net6.0\AppRecurrenteExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\obj\Debug\net6.0\AppRecurrenteExample.AssemblyInfoInputs.cache
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\obj\Debug\net6.0\AppRecurrenteExample.AssemblyInfo.cs
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\obj\Debug\net6.0\AppRecurrenteExample.csproj.CoreCompileInputs.cache
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\obj\Debug\net6.0\AppRecurrenteExample.dll
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\obj\Debug\net6.0\refint\AppRecurrenteExample.dll
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\obj\Debug\net6.0\AppRecurrenteExample.pdb
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\obj\Debug\net6.0\AppRecurrenteExample.genruntimeconfig.cache
+C:\Users\saulx\source\repos\AppRecurrenteExample\AppRecurrenteExample\obj\Debug\net6.0\ref\AppRecurrenteExample.dll
