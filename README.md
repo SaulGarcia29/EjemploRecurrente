@@ -5,3 +5,6 @@ que se pueden dividir en subproblemas más pequeños del mismo tipo.
 
 Cuando calculamos n!, resolvimos el problema de calcular n!(el problema original) al resolver el subproblema de calcular el factorial de un número menor, 
 es decir, al calcular (n-1)! (la instancia más pequeña del mismo problema), y después al usar la solución del subproblema para calcular el valor de n!.
+
+Video demostrativo del programa:
+https://www.youtube.com/watch?v=G_w6L3d0WwE
